@@ -1,2 +1,5 @@
-# superset
-Standalone implementation of Apache Superset
+# Superset
+## Standalone implementation of Apache Superset to deploy on Heroku
+
+### Setup
+
